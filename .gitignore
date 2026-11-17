@@ -1,0 +1,10 @@
+# Ignore everything by default
+/*
+
+# Whitelist allowed directories and files
+!/firmware/
+!/firmware/**
+!/matlab/
+!/matlab/**
+!/README.md
+!/.gitignore
